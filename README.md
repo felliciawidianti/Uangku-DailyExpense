@@ -33,9 +33,6 @@ License
 
 MIT
 
-
-**Free Software, Hell Yeah!**
-
    [Android Studio]: <https://developer.android.com/studio/index.html>
    [Material Design]: <https://material.io/guidelines/>
    [MP Chart]: <https://github.com/PhilJay/MPAndroidChart>
